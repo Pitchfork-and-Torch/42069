@@ -81,7 +81,7 @@ export const TICKER_ITEMS = [
 export const FACTS = [
   {
     label: "Prime factors",
-    value: "3 × 14023",
+    value: "3 × 37 × 379",
     note: "Neither is particularly funny. The product is.",
   },
   {
